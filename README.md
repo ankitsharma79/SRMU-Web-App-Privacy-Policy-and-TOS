@@ -35,7 +35,7 @@ This Privacy Policy may change occasionally. Updates will be posted here.
 
 ### 1. Purpose
 - The app is designed for SRMU students to simplify attendance access.  
-- It automates login and to give faster attendance.
+- It automates login to give faster attendance.
 
 ### 2. User Responsibilities
 - Use the app only for personal academic purposes.  
