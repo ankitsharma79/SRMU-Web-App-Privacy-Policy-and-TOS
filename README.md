@@ -83,3 +83,5 @@ The official SRMU portal remains the authoritative source of attendance informat
 You may stop using the app at any time.
 The developer reserves the right to suspend, modify, or permanently terminate the service at any time, with or without notice.
 Stored data may be deleted upon service termination.
+
+**By using this app, you acknowledge and agree to the above Privacy Policy & Terms of Service.**
