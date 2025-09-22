@@ -6,7 +6,8 @@
 
 ---
 
-**Privacy Policy**
+# Privacy Policy
+
 **1. Information We Collect**
 
 **Login Credentials:** Your SRMU roll number and password (required for accessing the university portal).
@@ -41,7 +42,7 @@ You may request information about what data is stored related to your usage.
 
 This Privacy Policy may be updated from time to time without prior notice. Updates will be reflected here with a revised effective date.
 
-**Terms of Service**
+# Terms of Service
 
 **1. Purpose**
 
