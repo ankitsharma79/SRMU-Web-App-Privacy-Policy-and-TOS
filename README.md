@@ -45,7 +45,6 @@ This Privacy Policy may be updated from time to time without prior notice. Updat
 **1. Purpose**
 
 This app is developed for SRMU students only to simplify attendance access.
-
 It automates login to fetch and display attendance details faster.
 
 **2. User Responsibilities**
