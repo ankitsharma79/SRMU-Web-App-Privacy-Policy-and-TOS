@@ -1,89 +1,81 @@
 # Privacy Policy & Terms of Service  
 
-**Effective Date:** 20-09-2025
+**Effective Date:** 20-09-2025  
 
 ---
 
-# Privacy Policy
+## Privacy Policy  
 
-**1. Information We Collect**
+### 1. Information We Collect  
+1.1 **Login Credentials:** Your SRMU roll number and password (required for accessing the official portal).  
+1.2 **Usage Data:** Logs such as login attempts, download activity, and error reports.  
+1.3 **Technical Data:** Device/browser type, operating system, and similar information (if necessary for troubleshooting).  
 
-**Login Credentials:** Your SRMU roll number and password (required for accessing the university portal).
-**Usage Data:** Logs such as login attempts, time of access, error reports, and file downloads.
-**Device/Technical Data:** Browser type, operating system, and similar technical information (if necessary for troubleshooting).
+### 2. How We Use Your Information  
+2.1 To automate login and fetch attendance details.  
+2.2 To improve app performance, speed, and user experience.  
+2.3 To detect errors, debug, and ensure smooth operation.  
+2.4 To monitor service stability and enhance reliability.  
 
-**2. How We Use Your Information**
+### 3. Data Storage & Security  
+3.1 Credentials may be securely stored for automation.  
+3.2 Industry-standard security practices are applied; however, **absolute security cannot be guaranteed**.  
+3.3 No data will be sold, rented, or shared with third parties.  
 
-To automate the login process and fetch your attendance.
-To enhance performance, speed, and overall user experience.
-To monitor app functionality, detect errors, and improve reliability.
-For debugging, troubleshooting, and ensuring smooth operation of services.
+### 4. Data Retention & Deletion  
+4.1 Credentials are retained only for service functionality.  
+4.2 Users may request deletion of stored data at any time.  
+4.3 Once deleted, the app may no longer function until credentials are re-entered.  
 
-**3. Data Storage & Security**
+### 5. User Rights  
+5.1 Users may stop using the app at any time.  
+5.2 Users may request information regarding data stored in relation to their usage.  
 
-Your credentials may be temporarily or securely stored to enable automation.
-Reasonable security practices are applied, but no system can guarantee 100% protection.
-We do not sell, rent, or share your personal data with third parties.
-
-**4. Data Retention & Deletion**
-
-Credentials are stored only for as long as needed to provide services.
-You may request deletion of your stored credentials by contacting the developer.
-Once deleted, the app will no longer function for you until re-setup.
-
-**5. Your Rights**
-
-You have the right to stop using the app at any time.
-You may request information about what data is stored related to your usage.
-
-**6. Policy Updates**
-
-This Privacy Policy may be updated from time to time without prior notice. Updates will be reflected here with a revised effective date.
+### 6. Policy Updates  
+6.1 This Privacy Policy may be revised without prior notice.  
+6.2 Updates will be published with a new effective date.  
 
 ---
 
-# Terms of Service
+## Terms of Service  
 
-**1. Purpose**
+### 1. Purpose  
+1.1 The app is intended solely for SRMU students to access attendance conveniently.  
+1.2 The app functions by automating login to the SRMU portal.  
 
-This app is developed for SRMU students only to simplify attendance access.
-It automates login to fetch and display attendance details faster.
+### 2. User Responsibilities  
+2.1 Users shall use the app only for lawful, academic, and personal purposes.  
+2.2 Users must safeguard their login credentials.  
+2.3 Users shall not misuse, exploit, or attempt to interfere with the app’s operations.  
 
-**2. User Responsibilities**
+### 3. Data Handling & Consent  
+3.1 By using the app, users consent to the collection and processing of their credentials and related data as described in the Privacy Policy.  
+3.2 Users acknowledge that credentials are essential for the app’s core functionality.  
+3.3 The developer shall not be liable for breaches or unauthorized access beyond reasonable control.  
 
-Use the app only for lawful, academic, and personal purposes.
-Do not attempt to misuse, exploit, or reverse-engineer the app.
-You are solely responsible for safeguarding your roll number and password.
+### 4. Availability & Service Reliability  
+4.1 The app is provided strictly **“as is”** without any warranties, express or implied.  
+4.2 The developer makes no guarantee of continuous availability, accuracy, or reliability.  
+4.3 Service interruptions, bugs, downtime, or incomplete data may occur.  
+4.4 Fixes, maintenance, and improvements are performed **solely at the discretion of the developer** and may be delayed or withheld at any time.  
 
-**3. Data Handling & Consent**
+### 5. Disclaimer of Liability  
+The developer shall not be held responsible for, including but not limited to:  
+- 5.1 Temporary or permanent service outages.  
+- 5.2 Incorrect or incomplete data fetched from the SRMU portal.  
+- 5.3 Misuse or unauthorized use of credentials outside this app.  
+- 5.4 Any direct, indirect, incidental, or consequential damages arising from use of the app.  
 
-By using the app, you consent to the collection, storage, and use of your login credentials and related data as described in the Privacy Policy.
-You acknowledge that your credentials are necessary for the app’s functionality.
-The developer will take reasonable steps to secure data, but cannot be held liable for breaches beyond their control.
+### 6. Relationship with SRMU  
+6.1 This app is an **independent project**.  
+6.2 It is **not affiliated, endorsed, or authorized** by SRMU.  
+6.3 The official SRMU portal remains the sole authoritative source of attendance information.  
 
-**4. Availability & Service Reliability**
+### 7. Termination of Service  
+7.1 Users may discontinue use at any time.  
+7.2 The developer reserves the right to suspend, restrict, or terminate service **at any time, with or without notice**.  
+7.3 Upon termination, stored user data may be deleted permanently.  
 
-The app is provided as is and may be subject to downtime, errors, or interruptions.
-The developer does not guarantee uninterrupted service or accuracy of fetched data.
-Fixes, updates, and improvements are made solely at the discretion of the developer and may not follow any fixed timeline.
+---
 
-**5. Disclaimer of Liability**
-
-The developer is not responsible for, including but not limited to:
-Service interruptions, errors, or downtime.
-Inaccurate or incomplete attendance data from SRMU’s official portal.
-Unauthorized use or misuse of your credentials outside this app.
-Any loss, damage, or inconvenience caused due to use of the app.
-
-**6. Relationship with SRMU**
-
-This is an independent project and is not affiliated, endorsed, or supported by SRMU.
-The official SRMU portal remains the authoritative source of attendance information.
-
-**7. Termination of Service**
-
-You may stop using the app at any time.
-The developer reserves the right to suspend, modify, or permanently terminate the service at any time, with or without notice.
-Stored data may be deleted upon service termination.
-
-**By using this app, you acknowledge and agree to the above Privacy Policy & Terms of Service.**
+**By accessing or using this app, you acknowledge that you have read, understood, and agreed to this Privacy Policy and Terms of Service.**  
