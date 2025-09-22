@@ -40,6 +40,8 @@ You may request information about what data is stored related to your usage.
 
 This Privacy Policy may be updated from time to time without prior notice. Updates will be reflected here with a revised effective date.
 
+---
+
 # Terms of Service
 
 **1. Purpose**
