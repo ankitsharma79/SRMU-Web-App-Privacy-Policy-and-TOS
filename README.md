@@ -1,5 +1,3 @@
-# SRMU-Web-App-Privacy-Policy-and-TOS
-
 # Privacy Policy & Terms of Service  
 
 **Effective Date:** 20-09-2025
